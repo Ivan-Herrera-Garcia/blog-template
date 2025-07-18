@@ -1,0 +1,2 @@
+user-agent: *
+sitemap: http://devhunters.netlify.app/sitemap.xml
